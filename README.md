@@ -80,7 +80,7 @@ React has been used widely in the project to build the frontend. The form styles
         
 Note: This will add all the required dependencies and modules to the project in your local
 
-###Warning for Windows Users:
+### Warning for Windows Users:
 
 Head to the `package.json` file in the directory, and change `script` from `PORT=<your-desired-port> react-scripts-start` to `react-scripts-start --port=<your-desired-port>`
 
